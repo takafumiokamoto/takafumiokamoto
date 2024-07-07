@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @takafumiokamoto
 - 👀 I’m interested in C++, Java, Go
 - 🌱 I’m currently learning C++, Java, Windows Internals
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I have Vasovagal Symptoms (Not even funny)
 
 <!---
