@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @takafumiokamoto
 - 👀 I’m interested in C++, Java, Go
-- 🌱 I’m currently learning C++, Java, Windows Internal
-- 💞️ I’m looking to collaborate on anyone
-- 📫 How to reach me anything
+- 🌱 I’m currently learning C++, Java, Windows Internals
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have Vasovagal Symptoms (Not even funny)
 
