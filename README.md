@@ -1,0 +1,12 @@
+- 👋 Hi, I’m @takafumiokamoto
+- 👀 I’m interested in C++, Java, Go
+- 🌱 I’m currently learning C++, Java, Windows Internal
+- 💞️ I’m looking to collaborate on anyone
+- 📫 How to reach me anything
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I Vasovagal Symptoms (Not even funny)
+
+<!---
+takafumiokamoto/takafumiokamoto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
